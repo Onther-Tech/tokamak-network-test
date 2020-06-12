@@ -1,0 +1,8 @@
+__pycache__
+.pytest_cache
+log.childchain
+log.rootchain
+rootchain/root-chain-node-1
+childchain/.pls.staking
+childchain/manager.json
+childchain/genesis-operator1.json
